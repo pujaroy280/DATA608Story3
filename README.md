@@ -4,9 +4,12 @@
 
 Link to view Story#3: https://colab.research.google.com/drive/1Mjy4gGWruFE_4j1m9Ee20Pe11noT9MTM?usp=sharing
 
-![Gun Violence Deaths by States in USA](https://github.com/pujaroy280/DATA608Story3/assets/62675121/60c7c7c6-971f-485d-a7ee-10cd632318b7)
+![GunViolenceDeathsbyStatesinUSA](https://github.com/pujaroy280/DATA608Story3/assets/62675121/e0e1c8c7-9328-4a39-83bc-450ce9921570)
+
+![GunControlLawsbyStateinUSA](https://github.com/pujaroy280/DATA608Story3/assets/62675121/a341dd4f-ba87-4ac5-a7c8-f2ef3dbdc8db)
 
 
-![Gun Control Laws by State in USA](https://github.com/pujaroy280/DATA608Story3/assets/62675121/1aed28f3-d544-4119-a787-6c23e2dc05c1)
+
+
 
 
